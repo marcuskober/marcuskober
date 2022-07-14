@@ -9,3 +9,4 @@ I'm a web developer and WordPress enthusiast from Cologne, Germany.
 ## Stats
 
 ![Marcus' GitHub stats](https://github-readme-stats.vercel.app/api?username=marcuskober&count_private=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcuskober&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
