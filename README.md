@@ -4,7 +4,7 @@ I am a web developer and WordPress enthusiast from Cologne, Germany.
 
 ## 🔭 I’m currently working on ...
 
-- WP Crypto Manager - A plugin for cryptocurrency sites to show coin stats as Gutenberg blocks
+- **WP Crypto Manager** - A WordPress plugin for cryptocurrency sites to show coin stats as Gutenberg blocks
 
 ## Stats
 
