@@ -8,7 +8,7 @@ I'm a web developer and WordPress enthusiast from Cologne, Germany.
 
 ## Stats
 
-![Marcus' GitHub stats](https://github-readme-stats.vercel.app/api?username=marcuskober&count_private=true&theme=onedark)
+![Marcus' GitHub stats](https://github-readme-stats.vercel.app/api?username=marcuskober&count_private=true&theme=highcontrast)
 
   <a href="https://github.com/marcuskober">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcuskober&bg_color=30,666666,333333&title_color=fff&text_color=fff" />
