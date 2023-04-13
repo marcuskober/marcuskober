@@ -2,15 +2,20 @@
 
 I am a web developer and WordPress enthusiast from Cologne, Germany.
 
+---
+
 ## 👨🏻‍💻 I’m currently working on ...
 
 - **WP Crypto Manager** - A WordPress plugin for cryptocurrency sites to show coin stats as Gutenberg blocks
+- **Tutorial series about modern WordPress plugin development**
 
-## Stats
+---
 
-![Marcus' GitHub stats](https://github-readme-stats.vercel.app/api?username=marcuskober&count_private=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcuskober&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+## 📫 How to reach me
 
-## :rocket: GitHub Streaks
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marcuskober&theme=tokyonight)](https://git.io/streak-stats)
+- E-Mail [hello@marcuskober.de](mailto:hello@marcuskober.de)
+- Dev.to [marcuskober](https://dev.to/marcuskober)
+- Mastodon [@phpc.social/@marcuskober](https://phpc.social/@marcuskober "{rel='me'}")
+- Twitter [@mrcskbr](https://twitter.com/mrcskbr)
+- LinkedIn [Marcus Kober](https://www.linkedin.com/in/marcus-kober/)
+- Instagram [@mrcskbr](https://www.instagram.com/mrcskbr/)
