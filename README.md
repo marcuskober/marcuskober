@@ -15,7 +15,7 @@ I am a web developer and WordPress enthusiast from Cologne, Germany.
 
 - E-Mail [hello@marcuskober.de](mailto:hello@marcuskober.de)
 - Dev.to [marcuskober](https://dev.to/marcuskober)
-- Mastodon [@phpc.social/@marcuskober](https://phpc.social/@marcuskober "{rel='me'}")
+- Mastodon [@phpc.social/@marcuskober](https://phpc.social/@marcuskober){:rel=“me”}
 - Twitter [@mrcskbr](https://twitter.com/mrcskbr)
 - LinkedIn [Marcus Kober](https://www.linkedin.com/in/marcus-kober/)
 - Instagram [@mrcskbr](https://www.instagram.com/mrcskbr/)
