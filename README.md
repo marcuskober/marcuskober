@@ -14,7 +14,7 @@ I am a web developer and WordPress enthusiast from Cologne, Germany.
 ## 📫 How to reach me
 
 - E-Mail [hello@marcuskober.de](mailto:hello@marcuskober.de)
-- Website [marcuskober.de](https://marcuskober.com)
+- Website [marcuskober.com](https://marcuskober.com)
 - Dev.to [marcuskober](https://dev.to/marcuskober)
 - Mastodon <a href="https://phpc.social/@marcuskober" rel="nofollow me">@phpc.social/@marcuskober</a>
 - Twitter [@mrcskbr](https://twitter.com/mrcskbr)
