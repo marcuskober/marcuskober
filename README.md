@@ -1,6 +1,10 @@
 # Hi there, my name is Marcus 👋
 
-Senior Web Dev in PHP/Symfony, passionate about DDD and EventStorming. Committed to clean, quality code.
+I'm a Senior Full Stack Developer with a deep passion for clean code, software architecture, and modernizing legacy systems. My expertise lies in Symfony backend development, with experience in front-end technologies like React. I also work with CI/CD pipelines, PHPUnit, Pest, and Git to build scalable and maintainable solutions.
+
+I’m actively involved in WordPress theme and plugin development, and one of my key projects is PhpCodeArcheology, a static analysis tool for exploring and improving legacy codebases.
+
+When I’m not working on code, I enjoy spending time with my two wonderful kids and exploring literature and comics. I’m always eager to learn and grow, both professionally and personally.
 
 ## 📫 How to reach me
 
